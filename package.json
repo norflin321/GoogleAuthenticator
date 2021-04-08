@@ -1,0 +1,10 @@
+{
+  "name": "googleauthenticator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "private": true,
+  "dependencies": {
+    "notp": "^2.0.3",
+    "thirty-two": "^1.0.2"
+  }
+}
